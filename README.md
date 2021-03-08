@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator app made using c++ and .NET framework
+Simple calculator app made using C++ and .NET framework
